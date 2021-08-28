@@ -1,0 +1,16 @@
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\PopCine.exe
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\PopCine.deps.json
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\PopCine.runtimeconfig.json
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\PopCine.runtimeconfig.dev.json
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\PopCine.dll
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\ref\PopCine.dll
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\bin\Debug\net5.0\PopCine.pdb
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.csproj.AssemblyReference.cache
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.AssemblyInfoInputs.cache
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.AssemblyInfo.cs
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.csproj.CoreCompileInputs.cache
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.dll
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\ref\PopCine.dll
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.pdb
+C:\Users\Vini\Desktop\Digital Innovation One\PopCine\obj\Debug\net5.0\PopCine.genruntimeconfig.cache
